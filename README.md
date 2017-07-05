@@ -2,7 +2,7 @@
 
 Formtastic is a Ruby gem to help speed up form creation. It's pretty similar to the standard Rails form code, but it generates more HTML that can be used to make your forms more functional.
 
-# Installing Formtastic
+## Installing Formtastic
 
 Add this line to your Gemfile and run bundle install.
 
@@ -31,7 +31,7 @@ If you'd like to make any changes to the styling, create a new file called `my_f
 touch app/assets/stylesheets/my_formtastic_changes.css
 ```
 
-# Relationships
+## Relationships
 
 Formtastic automatically handles relationships between models for you.
 
@@ -66,7 +66,7 @@ So Formtastic will automatically reference the relationship if you reference it 
 <% end %>
 ```
 
-# More info
+## More info
 
 [Formtastic Forms in Rails for Beginners](http://buildingrails.com/a/formtastic_forms_in_rails_for_beginners) - A beginner's guide to setting up Formtastic
 
