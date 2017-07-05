@@ -18,6 +18,8 @@ rails generate formtastic:install
 
 Formtastic also comes with some default CSS that you can later adjust to create your own look and feel for your forms.
 
+![alt text](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2011/12/origami-form.png)
+
 Add the following lines to: `app/assets/stylesheets/application.css`
 
 ```
