@@ -73,7 +73,6 @@ So Formtastic will automatically reference the relationship if you reference it 
 * It can handle `belongs_to` associations (like Post belongs_to :author), rendering a select or set of radio inputs with choices from the parent model.
 * It can handle `has_many` and `has_and_belongs_to_many` associations (like: Post has_many :tags), rendering a multi-select with choices from the child models.
 * It's Rails 3/4 compatible (including nested forms).
-* It has internationalization (I18n)!
 * It's really quick to get started with a basic form in place (4 lines), then go back to add in more detail if you need it.
 * There's heaps of elements, id and class attributes for you to hook in your CSS and JS.
 * It handles real world stuff like inline hints, inline error messages & help text.
